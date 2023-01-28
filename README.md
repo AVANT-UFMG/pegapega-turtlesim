@@ -4,13 +4,13 @@ O objetivo deste desafio e desenvolver um algoritmo capaz de fugir das outras ta
 
 ## Orientações
 
-1. Altere o arquivo tf_listener1.py para controlar a tartaruga principal.
+1. Altere o arquivo *nodes/tf_listener1.py* para controlar a tartaruga principal.
 
-2. Crie listeners dentro deste node para verificar as posições e orientações das outras tartarugas e buscar a melhor trajeto de fuga.
+2. Busque encontrar as posições e orientações das outras tartarugas para conseguir obter o melhor trajeto de fuga.
 
 ## Para execução
 
-1. Baixar o repositorio no seu atual workspace, dentro da pasta /src 
+1. Baixar o repositorio no seu atual workspace, dentro da pasta */src* 
 
         git clone https://github.com/AVANT-UFMG/pegapega-turtlesim.git
     
